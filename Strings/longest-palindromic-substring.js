@@ -1,3 +1,6 @@
+// Time Complexity:  O(n^2) Expansion around middle point takes O(n) for each character
+// Space Complexity: O(1)
+
 function longestPalindrome(s) {
     let startIndex = 0;
     let maxLength = 1;
