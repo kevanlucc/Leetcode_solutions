@@ -1,5 +1,5 @@
 /* 
- Time Complexity: O(NMlogM) where N is number of strings and M is the length of strings 
+ Time Complexity: O(NMlogM) where N is number of strings and M is the length of strings, sort function uses merge sort, which has O(nlogN) time complexity
  Space Complexity: O(NK) size of the grouped hash map
 */
 
